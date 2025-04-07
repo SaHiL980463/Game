@@ -1,1 +1,1 @@
-# Game
+# Game of javascript
